@@ -1,4 +1,4 @@
-# 🇵🇰 Pakistan Air Quality Predictor
+# Pakistan Air Quality Predictor
 
 A **Streamlit web application** that predicts the **Air Quality Index (AQI)** for cities in Pakistan. The app forecasts AQI for the next **3 days**, provides **health alerts**, displays **AQI trends**, shows **important factors affecting air quality**, and ranks all cities based on **AQI risk**.
 
@@ -45,8 +45,7 @@ A **Streamlit web application** that predicts the **Air Quality Index (AQI)** fo
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd Pakistan-AQI-Predictor
-   ```
+# 1. Clone the repository
+git clone https://github.com/Muskankumari13/Pakistan-Air-Quality-Level-Prediction-ML.git
+cd Pakistan-Air-Quality-Level-Prediction-ML
+
