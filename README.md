@@ -46,6 +46,6 @@ A **Streamlit web application** that predicts the **Air Quality Index (AQI)** fo
 ## Installation
 
 # 1. Clone the repository
-git clone https://github.com/Muskankumari13/Pakistan-Air-Quality-Level-Prediction-ML.git
+https://github.com/Muskankumari13/Pakistan-Air-Quality-Level-Prediction-ML-
 cd Pakistan-Air-Quality-Level-Prediction-ML
 
